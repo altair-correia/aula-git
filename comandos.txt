@@ -1,11 +1,13 @@
 cd <pasta>  -> entra na pasta
 mkdir <pasta> -> cria uma nova pasta com o nome <pasta>
-ls [-la] (linux) -> lista os arquivos dentro da <pasta> qaue você está
-dir [/a] (windows) -> lista os arquivos dentro da <pasta> qaue você está
+ls [-la] (linux) -> lista os arquivos dentro da <pasta> qaue você está; [lista arquivos ocultos]
+dir [/a] (windows) -> lista os arquivos dentro da <pasta> qaue você está [lista arquivos ocultos]
 pwd -> mostra a <pasta> que você está agora
 clear/cls (ou ctrl+L) -> limpa a tela
 
 
-# Comandos GIT
+# Comandos GIT #
 
 (git) init -> inicia um repositório git na <pasta> que você está agora.
+(git) status -> verifica o status dos arquivos do repositório
+(git) add [..] -> 
